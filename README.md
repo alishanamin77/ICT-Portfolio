@@ -3,7 +3,7 @@ Dedicated repository for CS1260-AICT Assignment 01, documenting the creation of 
 
 # My ICT Portfolio 
 
-Name: Alishan 
+Name: Alishan
 <br>
 Program: BS(Software Engineering)
 <br>
